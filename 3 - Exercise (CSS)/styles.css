@@ -7,6 +7,11 @@ body {
     margin: 0 auto;
 }
 
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
 #logo {
     display: flex;
     justify-content: center;
@@ -53,5 +58,12 @@ body {
     color: orange;
     margin-bottom: 0;
 }
+
+.ingredients {
+    border-bottom: 1px solid;
+    border-bottom-color: grey;
+}
+
+
 
 
