@@ -9,7 +9,8 @@ body {
 }
 
 main {
-    width: 80%;
+    background-color: yellow;
+    width: 40%;
     margin: 0 auto;
 }
 
@@ -19,6 +20,8 @@ main {
 }
 
 #title {
+    width: 60%;
+    margin: 0 auto;
     text-align: center;
 }
 
